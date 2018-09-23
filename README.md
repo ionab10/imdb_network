@@ -1,4 +1,4 @@
-#IMDB Network Analysis
+# IMDB Network Analysis
 
 Performing community detection on a graph of movies based on common actors/actresses.
 
